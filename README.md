@@ -20,7 +20,7 @@
 
 ## Usage
 
-> This web application allows users to see a visual representation of the news, highlighting positive and negative sentiment via IBM Watson's Alchemy technology. 
+> This web application gives users a visual representation of the news, highlighting positive and negative sentiment via IBM Watson's Alchemy technology. 
 
 ## Requirements
 
@@ -28,6 +28,7 @@
 - D3
 - Foundation for Apps
 - Gulp ^3.9.0
+- Node.js
 
 ## Development
 
